@@ -1,7 +1,6 @@
-package exercicios;
+package logica;
 
 import java.text.DecimalFormat;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class NotaFinalDoAluno {
